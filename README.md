@@ -1,0 +1,2 @@
+# tauri
+tauriPlay
